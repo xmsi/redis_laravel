@@ -43,4 +43,6 @@ $ docker exec -it 885 sh
 3. ``INFO keyspace`` - to see all db's with keys
 4. ``SELECT 1`` - to select db
 5. ``KEYS *`` - to see all keys
-6. ``GET key_index`` - to get value 
+6. ``GET key_index`` - to get value
+
+### Optional gui [RedisInsight](https://hub.docker.com/r/redis/redisinsight)
